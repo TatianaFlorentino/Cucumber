@@ -1,15 +1,15 @@
-# Trampo tem como OBJETIVO adicionar algumas atividades e conhecimentos adquiridos com frameworks e tecnologias abaixo:
+# Esse repositório tem como objetivo organizar meus estudos e conteúdo sobre tema geração de insights de negócio através de dados :
 
+* Excel
+* Conceito Geral de Banco e Modelagem
+* SQL
+* Ferramentas de Visualização
+* Power BI
+* Tableau
+
+
+# Testes de Aceite
 Cucumber gherkin com Java
-
 Selenium com Java
-
 SOAPUI com Groovy
-
-Java - J2EE com alguns framework-ejb-hibernate-struts-servlet-jsp
-
 JUnit
-
-
-
-

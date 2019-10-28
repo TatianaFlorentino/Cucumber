@@ -9,7 +9,7 @@
 
 
 # Testes de Aceite
-Cucumber gherkin com Java
-Selenium com Java
-SOAPUI com Groovy
-JUnit
+* Cucumber gherkin com Java
+* Selenium com Java
+* SOAPUI com Groovy
+* JUnit
